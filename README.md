@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Romer</h1>
 <h3 align="center">I love making beautiful web-experiences.</h3>
 
-- 👨‍💻 Check out my website <a href="https://nostal.dev" target="_blank">https://nostal.dev</a>
+- 👨‍💻 Check out my website <a href="https://nostal.dev" target="_blank">nostal.dev</a>
 
 - 📫 You can reach me at **hey@romerb.com**
 
